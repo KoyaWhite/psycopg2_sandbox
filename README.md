@@ -1,1 +1,1 @@
-# psycopg2_sandbox
+# psycopg2 базовый функционал
